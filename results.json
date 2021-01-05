@@ -5841,20 +5841,20 @@
         },
         "update_sentences": {
           "top_level": {
-            "timestamp": 1609886679305,
+            "timestamp": 1609887153452,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "winner_card_leadin": {
-            "timestamp": 1609886679305,
+            "timestamp": 1609887153452,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "eevp": {
             "sentence": "",
-            "timestamp": 1609886680845,
+            "timestamp": 1609887157548,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -5863,7 +5863,7 @@
           },
           "eevp_leadin": {
             "sentence": "",
-            "timestamp": 1609886680845,
+            "timestamp": 1609887157548,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -5875,7 +5875,7 @@
           "race_slug": "ga-senate-special-general-election-runoff-2021-01-05",
           "boolean_things_that_happened": {
             "zero_votes": true,
-            "results_expected_within_hour": false,
+            "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
             "race_won": false,
@@ -11751,20 +11751,20 @@
         },
         "update_sentences": {
           "top_level": {
-            "timestamp": 1609886679305,
+            "timestamp": 1609887153452,
             "is_new": false,
             "hide_timestamp": "",
             "overrideText": ""
           },
           "winner_card_leadin": {
-            "timestamp": 1609886679305,
+            "timestamp": 1609887153452,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "eevp": {
             "sentence": "",
-            "timestamp": 1609886680845,
+            "timestamp": 1609887157548,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -11773,7 +11773,7 @@
           },
           "eevp_leadin": {
             "sentence": "",
-            "timestamp": 1609886680845,
+            "timestamp": 1609887157548,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -11785,7 +11785,7 @@
           "race_slug": "ga-senate-general-election-runoff-2021-01-05",
           "boolean_things_that_happened": {
             "zero_votes": true,
-            "results_expected_within_hour": false,
+            "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
             "race_won": false,
@@ -11891,6 +11891,23 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 12,
+        "author": "Danny Hakim",
+        "author_title_or_location": "",
+        "text": "Senator Kelly Loeffler has strong Wall Street ties, starting with her husband, the chairman of the New York Stock Exchange, who directed $21 million to a pro-Loeffler PAC.",
+        "link_url": "https://www.nytimes.com/2020/12/21/us/politics/kelly-loeffler-georgia-senate.html",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609886754000,
+        "author_headshot": "https://static01.nyt.com/images/2018/10/18/multimedia/author-danny-hakim/author-danny-hakim-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 11,
         "author": "Mike Baker",
@@ -12087,8 +12104,8 @@
     ]
   },
   "meta": {
-    "version": 79,
+    "version": 91,
     "track": "2021-01-05",
-    "timestamp": "2021-01-05T22:44:46.251Z"
+    "timestamp": "2021-01-05T23:10:27.672Z"
   }
 }
