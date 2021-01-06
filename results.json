@@ -38,24 +38,24 @@
         "absentee_max_ballots": null,
         "provisional_outstanding": null,
         "provisional_count_progress": null,
-        "poll_display": "Polls close at 7 p.m. Eastern time.",
+        "poll_display": "Polls closed at 7 p.m. Eastern time.",
         "poll_countdown_display": "Polls close in",
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-01-06T00:00:00.000Z",
         "poll_time_short": "7 p.m.",
         "precincts_reporting": 0,
         "precincts_total": 2656,
-        "reporting_display": "Polls close at 7 p.m. Eastern time.",
+        "reporting_display": "Polls closed at 7 p.m. Eastern time.",
         "reporting_value": "7 PM",
         "eevp": 0,
         "tot_exp_vote": null,
         "eevp_source": "ap",
         "eevp_value": "7 PM",
-        "eevp_display": "Polls close at 7 p.m. Eastern time.",
+        "eevp_display": "Polls closed at 7 p.m. Eastern time.",
         "county_data_source": "ap",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2021-01-05T17:54:37.840Z",
+        "last_updated": "2021-01-05T23:59:38.757Z",
         "candidates": [
           {
             "candidate_id": "loeffler-67977",
@@ -134,7 +134,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -170,7 +170,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -206,7 +206,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -242,7 +242,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -278,7 +278,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -314,7 +314,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -350,7 +350,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -386,7 +386,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -422,7 +422,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -458,7 +458,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -494,7 +494,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -530,7 +530,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -566,7 +566,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -602,7 +602,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -638,7 +638,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -674,7 +674,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -710,7 +710,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -746,7 +746,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -782,7 +782,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -818,7 +818,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -854,7 +854,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -890,7 +890,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -926,7 +926,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -962,7 +962,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -998,7 +998,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1034,7 +1034,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1070,7 +1070,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1106,7 +1106,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1142,7 +1142,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1178,7 +1178,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1214,7 +1214,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1250,7 +1250,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1286,7 +1286,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1322,7 +1322,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1358,7 +1358,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1394,7 +1394,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1430,7 +1430,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1466,7 +1466,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1502,7 +1502,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1538,7 +1538,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1574,7 +1574,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1610,7 +1610,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1646,7 +1646,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1682,7 +1682,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1718,7 +1718,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1754,7 +1754,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1790,7 +1790,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1826,7 +1826,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1862,7 +1862,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1898,7 +1898,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1934,7 +1934,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -1970,7 +1970,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2006,7 +2006,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2042,7 +2042,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2078,7 +2078,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2114,7 +2114,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2150,7 +2150,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2186,7 +2186,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2222,7 +2222,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2258,7 +2258,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2294,7 +2294,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2330,7 +2330,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2366,7 +2366,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2402,7 +2402,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2438,7 +2438,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2474,7 +2474,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2510,7 +2510,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2546,7 +2546,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2582,7 +2582,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2618,7 +2618,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2654,7 +2654,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2690,7 +2690,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2726,7 +2726,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2762,7 +2762,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2798,7 +2798,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2834,7 +2834,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2870,7 +2870,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2906,7 +2906,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2942,7 +2942,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -2978,7 +2978,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3014,7 +3014,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3050,7 +3050,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3086,7 +3086,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3122,7 +3122,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3158,7 +3158,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3194,7 +3194,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3230,7 +3230,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3266,7 +3266,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3302,7 +3302,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3338,7 +3338,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3374,7 +3374,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3410,7 +3410,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3446,7 +3446,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3482,7 +3482,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3518,7 +3518,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3554,7 +3554,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3590,7 +3590,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3626,7 +3626,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3662,7 +3662,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3698,7 +3698,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3734,7 +3734,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3770,7 +3770,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3806,7 +3806,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3842,7 +3842,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3878,7 +3878,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3914,7 +3914,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3950,7 +3950,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -3986,7 +3986,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4022,7 +4022,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4058,7 +4058,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4094,7 +4094,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4130,7 +4130,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4166,7 +4166,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4202,7 +4202,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4238,7 +4238,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4274,7 +4274,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4310,7 +4310,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4346,7 +4346,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4382,7 +4382,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4418,7 +4418,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4454,7 +4454,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4490,7 +4490,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4526,7 +4526,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4562,7 +4562,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4598,7 +4598,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4634,7 +4634,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4670,7 +4670,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4706,7 +4706,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4742,7 +4742,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4778,7 +4778,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4814,7 +4814,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4850,7 +4850,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4886,7 +4886,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4922,7 +4922,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4958,7 +4958,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -4994,7 +4994,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5030,7 +5030,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5066,7 +5066,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5102,7 +5102,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5138,7 +5138,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5174,7 +5174,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5210,7 +5210,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5246,7 +5246,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5282,7 +5282,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5318,7 +5318,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5354,7 +5354,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5390,7 +5390,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5426,7 +5426,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5462,7 +5462,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5498,7 +5498,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5534,7 +5534,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5570,7 +5570,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5606,7 +5606,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5642,7 +5642,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5678,7 +5678,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5714,7 +5714,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5750,7 +5750,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5786,7 +5786,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5822,7 +5822,7 @@
               "loefflerk": 0,
               "warnockr": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -5835,26 +5835,26 @@
         "edison_certified": false,
         "precinct_metadata": {
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-latest.json",
-          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-2021-01-05T22:17:24.045Z.json",
-          "last_run": "2021-01-05 22:19:17.418",
+          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateSpecialRunoff-2021-01-05T23:48:21.783Z.json",
+          "last_run": "2021-01-05 23:50:17.119",
           "status": "finished"
         },
         "update_sentences": {
           "top_level": {
-            "timestamp": 1609887153452,
+            "timestamp": 1609891390759,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "winner_card_leadin": {
-            "timestamp": 1609887153452,
+            "timestamp": 1609891390759,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "eevp": {
             "sentence": "",
-            "timestamp": 1609887157548,
+            "timestamp": 1609891396440,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -5863,7 +5863,7 @@
           },
           "eevp_leadin": {
             "sentence": "",
-            "timestamp": 1609887157548,
+            "timestamp": 1609891396440,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -5948,24 +5948,24 @@
         "absentee_max_ballots": null,
         "provisional_outstanding": null,
         "provisional_count_progress": null,
-        "poll_display": "Polls close at 7 p.m. Eastern time.",
+        "poll_display": "Polls closed at 7 p.m. Eastern time.",
         "poll_countdown_display": "Polls close in",
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2021-01-06T00:00:00.000Z",
         "poll_time_short": "7 p.m.",
         "precincts_reporting": 0,
         "precincts_total": 2656,
-        "reporting_display": "Polls close at 7 p.m. Eastern time.",
+        "reporting_display": "Polls closed at 7 p.m. Eastern time.",
         "reporting_value": "7 PM",
         "eevp": 0,
         "tot_exp_vote": null,
         "eevp_source": "ap",
         "eevp_value": "7 PM",
-        "eevp_display": "Polls close at 7 p.m. Eastern time.",
+        "eevp_display": "Polls closed at 7 p.m. Eastern time.",
         "county_data_source": "ap",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2021-01-05T17:54:37.840Z",
+        "last_updated": "2021-01-05T23:59:38.757Z",
         "candidates": [
           {
             "candidate_id": "perdue-63347",
@@ -6044,7 +6044,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6080,7 +6080,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6116,7 +6116,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6152,7 +6152,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6188,7 +6188,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6224,7 +6224,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6260,7 +6260,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6296,7 +6296,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6332,7 +6332,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6368,7 +6368,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6404,7 +6404,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6440,7 +6440,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6476,7 +6476,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6512,7 +6512,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6548,7 +6548,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6584,7 +6584,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6620,7 +6620,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6656,7 +6656,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6692,7 +6692,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6728,7 +6728,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6764,7 +6764,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6800,7 +6800,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6836,7 +6836,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6872,7 +6872,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6908,7 +6908,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6944,7 +6944,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -6980,7 +6980,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7016,7 +7016,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7052,7 +7052,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7088,7 +7088,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7124,7 +7124,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7160,7 +7160,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7196,7 +7196,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7232,7 +7232,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7268,7 +7268,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7304,7 +7304,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7340,7 +7340,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7376,7 +7376,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7412,7 +7412,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7448,7 +7448,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7484,7 +7484,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7520,7 +7520,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7556,7 +7556,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7592,7 +7592,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7628,7 +7628,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7664,7 +7664,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7700,7 +7700,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7736,7 +7736,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7772,7 +7772,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7808,7 +7808,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7844,7 +7844,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7880,7 +7880,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7916,7 +7916,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7952,7 +7952,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -7988,7 +7988,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8024,7 +8024,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8060,7 +8060,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8096,7 +8096,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8132,7 +8132,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8168,7 +8168,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8204,7 +8204,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8240,7 +8240,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8276,7 +8276,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8312,7 +8312,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8348,7 +8348,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8384,7 +8384,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8420,7 +8420,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8456,7 +8456,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8492,7 +8492,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8528,7 +8528,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8564,7 +8564,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8600,7 +8600,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8636,7 +8636,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8672,7 +8672,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8708,7 +8708,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8744,7 +8744,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8780,7 +8780,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8816,7 +8816,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8852,7 +8852,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8888,7 +8888,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8924,7 +8924,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8960,7 +8960,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -8996,7 +8996,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9032,7 +9032,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9068,7 +9068,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9104,7 +9104,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9140,7 +9140,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9176,7 +9176,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9212,7 +9212,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9248,7 +9248,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9284,7 +9284,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9320,7 +9320,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9356,7 +9356,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9392,7 +9392,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9428,7 +9428,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9464,7 +9464,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9500,7 +9500,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9536,7 +9536,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9572,7 +9572,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9608,7 +9608,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9644,7 +9644,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9680,7 +9680,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9716,7 +9716,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9752,7 +9752,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9788,7 +9788,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9824,7 +9824,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9860,7 +9860,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9896,7 +9896,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9932,7 +9932,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9968,7 +9968,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10004,7 +10004,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10040,7 +10040,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10076,7 +10076,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10112,7 +10112,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10148,7 +10148,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10184,7 +10184,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10220,7 +10220,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10256,7 +10256,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10292,7 +10292,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10328,7 +10328,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10364,7 +10364,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10400,7 +10400,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10436,7 +10436,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10472,7 +10472,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10508,7 +10508,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10544,7 +10544,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10580,7 +10580,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10616,7 +10616,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10652,7 +10652,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10688,7 +10688,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10724,7 +10724,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10760,7 +10760,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10796,7 +10796,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10832,7 +10832,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10868,7 +10868,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10904,7 +10904,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10940,7 +10940,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -10976,7 +10976,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11012,7 +11012,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11048,7 +11048,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11084,7 +11084,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11120,7 +11120,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11156,7 +11156,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11192,7 +11192,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11228,7 +11228,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11264,7 +11264,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11300,7 +11300,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11336,7 +11336,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11372,7 +11372,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11408,7 +11408,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11444,7 +11444,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11480,7 +11480,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11516,7 +11516,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11552,7 +11552,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11588,7 +11588,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11624,7 +11624,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11660,7 +11660,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11696,7 +11696,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11732,7 +11732,7 @@
               "perdued": 0,
               "ossoffj": 0
             },
-            "last_updated": "2021-01-05T17:54:37.840Z",
+            "last_updated": "2021-01-05T23:59:38.757Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11745,26 +11745,26 @@
         "edison_certified": false,
         "precinct_metadata": {
           "latest_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-latest.json",
-          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-2021-01-05T22:17:24.231Z.json",
-          "last_run": "2021-01-05 22:19:17.531",
+          "timestamped_url": "https://static01.nyt.com/elections-assets/2020/data/api/2021-01-05/precincts/GASenateRunoff-2021-01-05T23:48:22.004Z.json",
+          "last_run": "2021-01-05 23:50:17.266",
           "status": "finished"
         },
         "update_sentences": {
           "top_level": {
-            "timestamp": 1609887153452,
+            "timestamp": 1609891390759,
             "is_new": false,
             "hide_timestamp": "",
             "overrideText": ""
           },
           "winner_card_leadin": {
-            "timestamp": 1609887153452,
+            "timestamp": 1609891390759,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null
           },
           "eevp": {
             "sentence": "",
-            "timestamp": 1609887157548,
+            "timestamp": 1609891396440,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -11773,7 +11773,7 @@
           },
           "eevp_leadin": {
             "sentence": "",
-            "timestamp": 1609887157548,
+            "timestamp": 1609891396440,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
@@ -11891,6 +11891,180 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 22,
+        "author": "Maggie Astor",
+        "author_title_or_location": "in New York",
+        "text": "Most polls are closed after what officials said was a mostly smooth day of voting in Georgia, but a handful of precincts will stay open past 7 p.m. because of earlier problems.",
+        "link_url": "https://www.nytimes.com/live/2021/01/05/us/georgia-elections/a-handful-of-polling-places-will-stay-open-past-7-pm",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609891256000,
+        "hide_from_homepage": "",
+        "hide_from_liveblog": true,
+        "author_headshot": "https://static01.nyt.com/images/2018/07/18/multimedia/author-maggie-astor/author-maggie-astor-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 21,
+        "author": "Shaila Dewan",
+        "author_title_or_location": "",
+        "text": "I first interviewed Stacey Abrams around 2011, when she became minority leader of the Georgia Assembly. She told me then that Georgia could turn blue if Democrats would invest.",
+        "link_url": "https://www.nytimes.com/2020/05/16/us/joe-biden-stacey-abrams-vp.html",
+        "link_text": "Read an interview from 2020",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609891008000,
+        "author_headshot": "https://static01.nyt.com/images/2019/06/17/reader-center/author-shaila-dewan2/63655eaa83174300944ab422db1e33c2-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 20,
+        "author": "Mike Baker",
+        "author_title_or_location": "",
+        "text": "61 percent of voters surveyed in Georgia report that they believe Joe Biden was legitimately elected president, according to new A.P. survey results.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609890789000,
+        "author_headshot": "https://static01.nyt.com/images/2020/05/19/reader-center/author-mike-baker/author-mike-baker-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 19,
+        "author": "Stephanie Saul",
+        "author_title_or_location": "",
+        "text": "New A.P. voter surveys in Georgia show that 32 percent of those voting identify as African-American or Black, a number that indicates high turnout in that demographic group.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609890694000,
+        "author_headshot": "https://static01.nyt.com/images/2020/02/06/reader-center/author-stephanie-saul/author-stephanie-saul-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 18,
+        "author": "Mike Baker",
+        "author_title_or_location": "",
+        "text": "New A.P. voter surveys in Georgia: 59 percent of voters say they are “very” or “somewhat” confident that ineligible votes were not allowed during the presidential election.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609890578000,
+        "author_headshot": "https://static01.nyt.com/images/2020/05/19/reader-center/author-mike-baker/author-mike-baker-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 17,
+        "author": "Trip Gabriel",
+        "author_title_or_location": "",
+        "text": "Kelly Loeffler was appointed by Georgia’s governor to the Senate in 2019. Another appointed senator, Martha McSally of Arizona, lost in November when she had to face voters.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609890476000,
+        "author_headshot": "https://static01.nyt.com/images/2019/12/13/reader-center/author-trip-gabriel/author-trip-gabriel-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 16,
+        "author": "Mike Baker",
+        "author_title_or_location": "",
+        "text": "You may be wondering why Georgia has these unusual runoff elections. The decades-old system has racist roots — part of an effort to dilute Black voting power.",
+        "link_url": "https://www.nytimes.com/2020/11/14/us/politics/georgia-runoffs-senate-control.html",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609889993000,
+        "author_headshot": "https://static01.nyt.com/images/2020/05/19/reader-center/author-mike-baker/author-mike-baker-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 15,
+        "author": "Lisa Lerer",
+        "author_title_or_location": "",
+        "text": "Expect early returns to show a G.O.P. edge, with conservative counties likely to report results faster. Democratic counties, including suburban Atlanta, typically take more time.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609889412000,
+        "author_headshot": "https://static01.nyt.com/images/2018/09/11/us/politics/author-lisa-lerer/lisa-lerer-headshot-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 14,
+        "author": "Lisa Lerer",
+        "author_title_or_location": "",
+        "text": "Expect a G.O.P. advantage in the votes reported first. Republicans tend to cast more ballots on election day, which are reported faster than absentee and in-person early votes.",
+        "link_url": "",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "https://static01.nyt.com/images/2021/01/05/us/politics/05live-blog-whatwesee-3/merlin_182004867_871543e7-1821-42ba-9112-5d34762fb482-threeByTwoMediumAt2X.jpg",
+        "image_credit": "Lynsey Weatherspoon for The New York Times",
+        "datetime": 1609888558000,
+        "hide_from_homepage": "",
+        "hide_from_liveblog": true,
+        "author_headshot": "https://static01.nyt.com/images/2018/09/11/us/politics/author-lisa-lerer/lisa-lerer-headshot-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
+      {
+        "id": 13,
+        "author": "Stephanie Saul",
+        "author_title_or_location": "",
+        "text": "In this campaign, David Perdue has downplayed his extensive dealings in outsourcing manufacturing to China during his career in the apparel and textile industries.",
+        "link_url": "https://www.nytimes.com/2021/01/01/us/politics/david-perdue-georgia-senate.html",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1609887629000,
+        "author_headshot": "https://static01.nyt.com/images/2020/02/06/reader-center/author-stephanie-saul/author-stephanie-saul-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 12,
         "author": "Danny Hakim",
@@ -12104,8 +12278,8 @@
     ]
   },
   "meta": {
-    "version": 91,
+    "version": 118,
     "track": "2021-01-05",
-    "timestamp": "2021-01-05T23:10:27.672Z"
+    "timestamp": "2021-01-06T00:03:21.296Z"
   }
 }
